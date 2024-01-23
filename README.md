@@ -17,3 +17,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsilvers64&show_icons=true&locale=en&layout=compact" alt="bsilvers64" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bsilvers64&" alt="bsilvers64" /></p>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bsilvers64&repo=cloud-native-voting-application)](https://github.com/bsilvers64/cloud-native-voting-application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bsilvers64&repo=Serverless-Chat-App)](https://github.com/bsilvers64/Serverless-Chat-App)
+
+
