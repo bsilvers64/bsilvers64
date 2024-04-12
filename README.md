@@ -23,16 +23,26 @@
 </p>
 
 
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bsilvers64&repo=mediaDevices-Interface-showcase)](https://github.com/bsilvers64/mediaDevices-Interface-showcase)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bsilvers64&repo=NexMeet)](https://github.com/bsilvers64/NexMeet)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bsilvers64&repo=redux-dive)](https://github.com/bsilvers64/redux-dive)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bsilvers64&repo=Shopster)](https://github.com/bsilvers64/Shopster)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+    <a href="https://github.com/bsilvers64/mediaDevices-Interface-showcase">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsilvers64&repo=mediaDevices-Interface-showcase" alt="mediaDevices-Interface-showcase" />
+    </a>
+      <a href="https://github.com/bsilvers64/NexMeet">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsilvers64&repo=NexMeet" alt="NexMeet" />
+    </a>
+    <a href="">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsilvers64&repo=NexMeet" alt="NexMeet" />
+    </a>
+    <a href="https://github.com/bsilvers64/redux-dive">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsilvers64&repo=redux-dive" alt="redux-dive" />
+    </a>
+    <a href="https://github.com/bsilvers64/Shopster">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsilvers64&repo=Shopster" alt="Shopster" />
+    </a>
+      <a href="https://github.com/bsilvers64/innocaption-shopping-cart">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsilvers64&repo=innocaption-shopping-cart" alt="Shopster" />
+    </a>
+</div>
 
 
 
