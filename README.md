@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavansh</h1>
-<h3 align="center">A passionately inquisitive full-stack developer/student</h3>
+<h3 align="center">A passionately inquisitive full-stack developer</h3>
 
-- 🌱 I’m currently learning **Nextjs and AWS**
+- 🌱 currently Production Engineer at Meta ****
 
 - 📫 How to reach me **bsthapak@asu.edu**
 
