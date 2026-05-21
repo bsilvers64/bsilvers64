@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavansh</h1>
 <h3 align="center">A passionately inquisitive full-stack developer</h3>
 
-- 🌱 currently Production Engineer at Meta ****
+- 🌱 currently Production Engineer at Meta
 
 - 📫 How to reach me **bsthapak@asu.edu**
 
